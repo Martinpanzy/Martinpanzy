@@ -1,7 +1,5 @@
 Hi, I'm [Zengyang](zengyangpan.com). I graduated from Imperial after studying EEE. I'm interested in robotics and machine learning.
 
-### Hi there 👋
-
 <!--
 **Martinpanzy/Martinpanzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
